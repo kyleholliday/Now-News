@@ -1,0 +1,24 @@
+{
+  "name": "flexboxproject",
+  "version": "1.0.0",
+  "description": "News website built with Flexbox",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyleholliday/Now-News.git"
+  },
+  "author": "kyle holliday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyleholliday/Now-News/issues"
+  },
+  "homepage": "https://github.com/kyleholliday/Now-News#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-sass": "^2.3.1"
+  }
+}
